@@ -18,3 +18,7 @@ I build AI systems that do real work:
 
 **AI**: Claude · OpenAI · Agent SDKs · MCP · LLM pipelines<br>
 **Automation & scraping**: Playwright · Selenium · n8n · RPA
+
+### Contact
+
+<a href="https://www.linkedin.com/in/rikelmeesantos/"><img src="https://img.shields.io/badge/LinkedIn-rikelmeesantos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
